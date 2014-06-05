@@ -26,13 +26,15 @@ Sprint 1:
 2/5 - 4/5
 Scrummaster: Mustika ULina (121112244)
 
-Sprint 2:
+Sprint 2: Yanti Susanna Siregar (121111788)
 
 
-Sprint 3: 
+Sprint 3: Nursela (121112201)
+
+Sprint 4: Windi elvia Pulungan (121112015)
 
 
-Progress Harian (Diupdate tiap hari)
+Progress Harian
 ------------------------------------
 
 2/6 
@@ -68,6 +70,7 @@ Daily Scrum
 3. Kendala saya pada error nya grunt server 
 
 4/6
+<<<<<<< HEAD
 (Nama Anggota 1):Mustika Ulina 
 1. Hari ini saya memperbaharui tampilan keseluruhan
 2. Tidak ada kendala
@@ -75,3 +78,35 @@ Daily Scrum
 (Nama anggota 2):Windi Elvia Pulungan
 1.Menambah Slide veri Android
 2. Tidak ada kendala
+=======
+
+Yanti Susanna Siregar 
+1. Semalam saya mencari tau tentang privacy android
+2. Hari ini saya mengedit dan membanguskan tampilan untuk slide android
+3. Saya berkendala pada saat mengedit file, lupa untuk pull utama master
+
+Windi Elvia Pulungan
+1. Semalam saya melanjutkan menambah slide tentang versi android
+2. hari ini saya mengedit css dan tampilan slide versi android
+3. Tidak ada kendala
+
+Nursela
+1. Semalam saya mencoba menambahkan slide tentang smartphone
+2. Hari ini saya push slide smartphone ke github
+3. Tidak Ada kendala
+
+
+5/6
+Daily Scrum 
+(Nama Anggota 1):Mustika Ulina
+1. Saya hari ini memperbaharui tampilan keseluruhan
+2. Tidak ada kendala
+
+(Nama Anggota 2):Windi Elvia Pulungan 
+1.Menambah slide versi Android
+2. Tidak ada kendala
+
+(Nama Anggota 3):Nursela
+1.
+2.
+
