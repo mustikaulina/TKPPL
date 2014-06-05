@@ -70,6 +70,15 @@ Daily Scrum
 3. Kendala saya pada error nya grunt server 
 
 4/6
+<<<<<<< HEAD
+(Nama Anggota 1):Mustika Ulina 
+1. Hari ini saya memperbaharui tampilan keseluruhan
+2. Tidak ada kendala
+
+(Nama anggota 2):Windi Elvia Pulungan
+1.Menambah Slide veri Android
+2. Tidak ada kendala
+=======
 
 Yanti Susanna Siregar 
 1. Semalam saya mencari tau tentang privacy android
@@ -87,4 +96,17 @@ Nursela
 3. Tidak Ada kendala
 
 
+5/6
+Daily Scrum 
+(Nama Anggota 1):Mustika Ulina
+1. Saya hari ini memperbaharui tampilan keseluruhan
+2. Tidak ada kendala
+
+(Nama Anggota 2):Windi Elvia Pulungan 
+1.Menambah slide versi Android
+2. Tidak ada kendala
+
+(Nama Anggota 3):Nursela
+1.
+2.
 
