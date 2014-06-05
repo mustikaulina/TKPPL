@@ -67,5 +67,11 @@ Daily Scrum
 2. hari ini saya mencoba menambahkan slide tentang smartphone
 3. Kendala saya pada error nya grunt server 
 
+4/6
+(Nama Anggota 1):Mustika Ulina 
+1. Hari ini saya memperbaharui tampilan keseluruhan
+2. Tidak ada kendala
 
-
+(Nama anggota 2):Windi Elvia Pulungan
+1.Menambah Slide veri Android
+2. Tidak ada kendala
