@@ -50,6 +50,7 @@ Daily Scrum
 (Nama Anggota 3): Nursela
 1. Hari ini saya menclone repository
 2. tidak ada kendala
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 3/6
 Daily Scrum
@@ -67,6 +68,7 @@ Daily Scrum
 1. semalam saya menclone repository
 2. hari ini saya mencoba menambahkan slide tentang smartphone
 3. Kendala saya pada error nya grunt server 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 4/6
 Daily Scrum
@@ -85,7 +87,7 @@ Daily Scrum
 1. Semalam saya mencoba menambahkan slide tentang smartphone
 2. Hari ini saya push slide smartphone ke github
 3. Tidak Ada kendala
-
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 5/6
 Daily Scrum 
@@ -100,6 +102,7 @@ Daily Scrum
 (Nama Anggota 3):Nursela
 1.
 2.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 6/6
 Daily Scrum
@@ -114,4 +117,14 @@ Daily Scrum
 (Nama Anggota 3):
 1. Saya hari ini saya menambahkan Slide "Pembajakan Aplikasi"
 2.Tidak ada kendala.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+7/6
+Daily Scrum
+(Nama Anggota 1):Mustika Ulina
+1.Saya hari ini  menghapus file double bower_component & Images android.
+2.Tidak ada kendala.
+
+(Nama Anggota 3);Windi Elvia Pulungan
+1.Saya hari ini menambah slide pembajak aplikasi.
+2.Tidak ada kendala.
