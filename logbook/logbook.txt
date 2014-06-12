@@ -114,7 +114,7 @@ Daily Scrum
 1.Saya hari ini menambahkan Slide "Keamanan dan Privacy"
 2Tidak ada kendala
 
-(Nama Anggota 3):
+(Nama Anggota 3):Windi Elvia Pulungan
 1. Saya hari ini saya menambahkan Slide "Pembajakan Aplikasi"
 2.Tidak ada kendala.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -125,42 +125,55 @@ Daily Scrum
 1.Saya hari ini  menghapus file double bower_component & Images android.
 2.Tidak ada kendala.
 
-(Nama Anggota 3);Windi Elvia Pulungan
+(Nama Anggota 2):Windi Elvia Pulungan
 1.Saya hari ini menambah slide pembajak aplikasi.
 2.Tidak ada kendala.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 10/6
 Daily Scrum
-(Nama anggota 1):Nursela
-1.Saya hari ini cari tau tentang smartphone supercopy dalam hal hardware
-2.Tidak ada kendala
 
-(Nama anggota 2):Windi Elvia Pulungan
+(Nama anggota 1):Windi Elvia Pulungan
 1.Saya hari ini melengkapi tetang smartphone supercopy dalam hal hardware 
 2.Tidak ada kendala
 
-(Nama anggota 3):Mustika Ulina
+(Nama anggota 2):Mustika Ulina
 1.Saya hari ini cari tau tentang smartphone supercopy dalam hal software
 2.Tidak ada kendala
 
-(Nama anggota 4):Yanti susanna Siregar
+(Nama anggota 3):Yanti susanna Siregar
 1.Saya hari ini melengkapi tentang smartphone supercopy dalam hal software
 2.tidak ada kendala
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 11/6
 Daily Scrum
-(Nama anggota 1):Nursela
-1.Hari ini saya menambahkan Slide"Supercopy dalam hal hardware"
-2.Tidak ada kendala
-
-(Nama anggota 2): Windi Elvia Pulungan
+(Nama anggota 1): Windi Elvia Pulungan
 1. Hari in saya memperbaharui slide "Supercopy dalam hal hardware"
 2.Tidak ada kendala
 
-(Nama anggota 3):Yanti Susanna Siregar 
+(Nama anggota 2):Yanti Susanna Siregar 
 1.Hari ini saya push slide "Supercopy dalam hal software" ke github
 2.Tidak ada kendala
 
-(Nama anggota 4):Mustika Ulina
+(Nama anggota 3):Mustika Ulina
 1.Hari ini saya memperbaharui slide"Supercopy dalam hal software"
 2.Tidak ada kendala  
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+12/6
+Daily Scrum
+(Nama Anggota 1): Mustika Ulina
+1. Semalam saya memperbaharui slide supercopy dalam hal software
+2. Hari ini saya tidak bekerja
+3. Tidak ada kendala
+
+(Nama Anggota 2): Ynti Susana Siregar
+1. Semalam saya push slide Supercopy dalam hal software ke github
+2. Hari ini saya tidak ada bekerja
+3. Tidak ada kendala
+
+(Nama Anggota 3): Nursela
+1. Hari ini saya tidak bekerja
+2. Tidak ada kendala 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
