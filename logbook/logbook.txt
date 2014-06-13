@@ -168,7 +168,7 @@ Daily Scrum
 2. Hari ini saya tidak bekerja
 3. Tidak ada kendala
 
-(Nama Anggota 2): Ynti Susana Siregar
+(Nama Anggota 2): Yanti Susana Siregar
 1. Semalam saya push slide Supercopy dalam hal software ke github
 2. Hari ini saya tidak ada bekerja
 3. Tidak ada kendala
@@ -176,4 +176,17 @@ Daily Scrum
 (Nama Anggota 3): Nursela
 1. Hari ini saya tidak bekerja
 2. Tidak ada kendala 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+13/6
+Daily Scrum
+(Nama Anggota 1): Mustika Ulina
+1. Semalam saya tidak bekerja
+2. Hari ini saya memperbaharui slide dan css
+3. Tidak ada kendala
+
+(Nama Anggota 2): Yanti Susana Siregar
+
+
+(Nama Anggota 3): Nursela
