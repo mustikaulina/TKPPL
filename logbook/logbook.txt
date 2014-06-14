@@ -192,3 +192,21 @@ Daily Scrum
 3. Tidak ada kendala
 
 (Nama Anggota 3): Nursela
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+14/6
+Daily Scrum
+(Nama Anggota 1): Mustika Ulina
+1. Semalam saya memperbaharui slide dan css
+2. Hari ini saya mengedit css
+3. Tidak ada kendala
+
+(Nama Anggota 2): Yanti Susana Siregar
+1. Semalam saya menambahi slide cover
+2. Hari ini saya nambahkan slide cara mengecek smartphone
+3. Tidak ada kendala
+
+(Nama Anggota 3): Nursela
+1.Hari ini saya mencari tentang smartphone dalam hal software
+2.Tidak ada kendala
